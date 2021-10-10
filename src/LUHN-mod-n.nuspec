@@ -2,19 +2,18 @@
 <package >
   <metadata>
     <id>LUHN-mod-N</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>JessicaMulein</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <projectUrl>https://raw.githubusercontent.com/JessicaMulein/LUHN-mod-n/main/README.md</projectUrl>
+    <description>LUHN modulo N</description>
+    <releaseNotes>Initial release.</releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>luhn</tags>
     <dependencies>
-      <group targetFramework=".NETStandard2.1">
-        <dependency id="SampleDependency" version="1.0.0" />
+      <group targetFramework="net6.0">
       </group>
     </dependencies>
   </metadata>
