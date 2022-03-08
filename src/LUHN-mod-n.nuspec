@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>LUHN-mod-N</id>
-        <version>1.0.1</version>
+        <version>1.1.0</version>
         <authors>JessicaMulein</authors>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <license type="expression">MIT</license>
